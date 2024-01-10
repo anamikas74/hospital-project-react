@@ -1,0 +1,144 @@
+{
+  "doctor": [
+    {
+      "0": {
+        "0": {
+          "id": "2",
+          "name": "shivi",
+          "specilist": "Heart",
+          "hospital": "Bansal",
+          "contact": "9893549862"
+        },
+        "1": {
+          "id": "3",
+          "name": "bhanu",
+          "specilist": "Eye",
+          "hospital": "JK",
+          "contact": "9893549862"
+        },
+        "2": {
+          "id": "4",
+          "name": "ruhi",
+          "specilist": "Leg",
+          "hospital": "aims",
+          "contact": "9893549862"
+        },
+        "name": "Nishi",
+        "specilist": "kidney",
+        "hospital": "city",
+        "contact": "7477221616",
+        "id": "2"
+      },
+      "1": {
+        "id": "3",
+        "name": "bhumi",
+        "specilist": "Eye",
+        "hospital": "parul",
+        "contact": "9893549862"
+      },
+      "2": {
+        "name": "anamika",
+        "hospital": "aims",
+        "specialist": "heart",
+        "contact": "8976543245",
+        "id": "5"
+      },
+      "name": "sani",
+      "specilist": "mind",
+      "hospital": "city",
+      "contact": "6234567788",
+      "id": "6"
+    },
+    {
+      "0": {
+        "0": {
+          "0": {
+            "id": "2",
+            "name": "shivi",
+            "specilist": "Heart",
+            "hospital": "Bansal",
+            "contact": "9893549862"
+          },
+          "1": {
+            "id": "3",
+            "name": "bhanu",
+            "specilist": "Eye",
+            "hospital": "JK",
+            "contact": "9893549862"
+          },
+          "2": {
+            "id": "4",
+            "name": "ruhi",
+            "specilist": "Leg",
+            "hospital": "aims",
+            "contact": "9893549862"
+          },
+          "name": "Nishi",
+          "specilist": "kidney",
+          "hospital": "city",
+          "contact": "7477221616",
+          "id": "2"
+        },
+        "1": {
+          "id": "3",
+          "name": "bhumi",
+          "specilist": "Eye",
+          "hospital": "parul",
+          "contact": "9893549862"
+        },
+        "2": {
+          "name": "anamika",
+          "hospital": "aims",
+          "specialist": "heart",
+          "contact": "8976543245",
+          "id": "5"
+        },
+        "name": "sani",
+        "specilist": "mind",
+        "hospital": "city",
+        "contact": "6234567788",
+        "id": "6"
+      },
+      "1": {
+        "name": "anamika",
+        "hospital": "aims",
+        "specialist": "heart",
+        "contact": "8976543245",
+        "id": "LLhvUFg"
+      },
+      "2": {
+        "name": "bhagya",
+        "hospital": "bansal",
+        "specialist": "gynecologist",
+        "contact": "7654356789",
+        "id": "7"
+      },
+      "3": {
+        "name": "bhagya",
+        "hospital": "hdthdr",
+        "specialist": "gynecologist",
+        "contact": "9165312329",
+        "id": "6_3mWpm"
+      },
+      "name": "nishi",
+      "specilist": "health",
+      "hospital": "goverment",
+      "contact": "8976895643",
+      "id": "LLhvUFg"
+    },
+    {
+      "name": "bhagya",
+      "hospital": "bansal",
+      "specialist": "gynecologist",
+      "contact": "7654356789",
+      "id": "7"
+    },
+    {
+      "name": "bhagya",
+      "hospital": "hdthdr",
+      "specialist": "gynecologist",
+      "contact": "9165312329",
+      "id": "6_3mWpm"
+    }
+  ]
+}
